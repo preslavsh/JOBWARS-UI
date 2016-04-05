@@ -8,11 +8,10 @@
   Make sure you have Node version 5 or above.
 
 ##Installation
-Run in the root directory the following commands.
+  Run in the root directory the following commands.
   
 `
   npm install
-  
   npm start
 `
 
