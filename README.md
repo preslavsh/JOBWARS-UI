@@ -9,6 +9,7 @@
 
 ##Installation
 Run in the root directory the following commands.
+  
 `
   npm install
   npm start
@@ -18,7 +19,7 @@ Run in the root directory the following commands.
 browser.
 
 ##Used technologies 
-*Angular2
-*Bootstrap
-*Lite Server
+  *Angular2
+  *Bootstrap
+  *Lite Server
 
