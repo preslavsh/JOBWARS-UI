@@ -10,10 +10,10 @@
 ##Installation
   Run in the root directory the following commands.
   
-`
+```
   npm install
   npm start
-`
+```
 
   The start command compiles the auto typescript files and auto updates the 
 browser.
