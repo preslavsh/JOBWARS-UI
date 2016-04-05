@@ -11,7 +11,7 @@
 Run in the root directory the following commands.
   
 `
-  npm install
+  npm install 
   npm start
 `
 
